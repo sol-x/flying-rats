@@ -1,0 +1,15 @@
+{
+  "name": "flying-rats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James Pike <jpike@chilon.net>",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "cd server && yarn install && cd ../client && yarn install",
+    "start": "concurrently 'cd server && yarn start' 'cd client && yarn start'",
+    "test": "cd client && yarn test --watchAll=false"
+  },
+  "devDependencies": {
+    "concurrently": "^5.0.0"
+  }
+}

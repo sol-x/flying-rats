@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "module": "commonjs",
+    "target": "es2015",
+    "lib": ["es7", "dom"],
+    "types": ["node"],
+    "sourceMap": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "rootDir": "src",
+    "forceConsistentCasingInFileNames": true,
+    "preserveWatchOutput": true,
+    "strict": true
+  },
+  "exclude": ["node_modules", "build", "scripts"]
+}

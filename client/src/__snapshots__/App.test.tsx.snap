@@ -3,7 +3,7 @@
 exports[`rads select renders successfully 1`] = `
 <div
   class="select"
-  data-testid="rats-select"
+  data-testid="rat-select"
 >
   <select>
     <option

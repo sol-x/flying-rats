@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`rads select renders successfully 1`] = `
+<div
+  class="select"
+  data-testid="rats-select"
+>
+  <select>
+    <option
+      value=""
+    >
+      No Rat
+    </option>
+    <option
+      value="rat 1"
+    >
+      rat 1
+    </option>
+    <option
+      value="rat 2"
+    >
+      rat 2
+    </option>
+  </select>
+</div>
+`;

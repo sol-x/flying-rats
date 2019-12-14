@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "fetch-mock": "^8.0.1",
+    "node-fetch": "^2.6.0"
+  }
 }

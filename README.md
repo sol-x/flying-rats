@@ -1,6 +1,12 @@
 ## Instructions
 
-Don't worry, this test shouldn't take more than 60 minutes (even with the bonus section). If you don't want to finish it then just submit whatever you have done after 60 minutes.
+This test shouldn't take more than 60 minutes (even with the bonus section). If you don't want to finish it then submit what you have done after 60 minutes.
+
+Please do not fork this repo on github or open a pull request. Submit your solution via email in an archive, which can be created with the following git command:
+
+```
+git archive HEAD . > solution.tar
+```
 
 To run this test type:
 

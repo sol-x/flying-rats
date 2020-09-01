@@ -5,7 +5,7 @@ This test shouldn't take more than 60 minutes (even with the bonus section). If 
 Please do not fork this repo on github or open a pull request. Submit your solution via email in an archive, which can be created with the following git command:
 
 ```
-git archive HEAD . > solution.tar
+git archive HEAD . -o solution.tar
 ```
 
 To run this test type:
